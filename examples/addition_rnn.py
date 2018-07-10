@@ -25,6 +25,7 @@ Five digits inverted:
 + One layer LSTM (128 HN), 550k training examples = 99% train/test accuracy in 30 epochs
 '''
 
+#try github history
 from __future__ import print_function
 from keras.models import Sequential
 from keras import layers
